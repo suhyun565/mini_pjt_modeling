@@ -8,8 +8,6 @@
 
 <h3>Information</h3>
 
----
-
 **About Project**
 | 주제 | 설명|
 |:----:| --------------------------------------|
@@ -29,7 +27,7 @@
 
 - 협업 툴
 
-  - Slack, Notion, Trello, Github
+  - [Notion](https://geuun.notion.site/6f94c663f1b2414db2989aaa2aabd8e9), Trello, Github, Slack
 
 - 버전관리
   - Github Flow
@@ -55,3 +53,5 @@
 ![Directory Structure](https://user-images.githubusercontent.com/89567475/172049001-60a6c5a3-367f-481c-8051-559d62083904.png)
 
 ![Directory Structure(2)](https://user-images.githubusercontent.com/89567475/172049040-0416e574-dfc5-43e1-9054-9bb5674e1419.png)
+
+<참고 : [ML Flow](https://data-newbie.tistory.com/614)>
