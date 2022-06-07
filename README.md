@@ -13,7 +13,7 @@
 **About Project**
 | 주제 | 설명|
 |:----:| --------------------------------------|
-| Empty | Empty |
+| [IEEE-CIS Fraud Detection(거래 사기 탐지)](https://www.kaggle.com/c/ieee-fraud-detection) | 온라인 거래 중 `사기일 확률`을 예측하기 |
 
 ---
 
